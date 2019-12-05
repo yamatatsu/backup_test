@@ -5,7 +5,7 @@
 以下の手順に従う。`${任意のリポジトリ名}` は対象のリポジトリ名に置き換えること。
 
 1. リポジトリを clone する
-   - `git clone --mirror https://github.com/CureApp/${任意のリポジトリ名}.git`
+   - `git clone --mirror https://github.com/yamatatsu/${任意のリポジトリ名}.git`
 1. アックアップファイルを作成する
    - `tar -zcf ${任意のリポジトリ名}.tar.gz ${任意のリポジトリ名}.git`
 1. アックアップファイル `${任意のリポジトリ名}.tar.gz` を任意のファイルサーバー等で保管する
